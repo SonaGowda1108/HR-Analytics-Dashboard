@@ -18,6 +18,15 @@ Provide insights into salary distribution and job roles.
 
 ---
 
+# 📊 Dataset Description
+
+The dataset consists of the following key attributes:
+
+![Image](https://github.com/user-attachments/assets/62226024-ec7d-4d88-83cd-a0c54b33cde3)
+
+
+---
+
 # 🔧 Tools & Technologies Used
 
 Excel: Initial data processing and summary reports.
@@ -70,6 +79,10 @@ Visualize insights using Power BI/Tableau dashboards.
 # Screenshots
 
 ![Image](https://github.com/user-attachments/assets/96552d0c-9d22-47bf-a684-c6ccb4bb44ce)
+
+![Image](https://github.com/user-attachments/assets/47787cdb-1ded-44c5-b568-8b0252d10c88)
+
+![Image](https://github.com/user-attachments/assets/28e43fb9-622f-4c51-b0e9-1c54656c599f)
 
 
 ---
