@@ -67,6 +67,14 @@ Visualize insights using Power BI/Tableau dashboards.
 
 ---
 
+# Screenshots
+
+![Image](https://github.com/user-attachments/assets/96552d0c-9d22-47bf-a684-c6ccb4bb44ce)
+
+
+---
+
+
 # 📢 Conclusion
 
 This project provides valuable HR insights, helping organizations optimize workforce management, reduce attrition, and improve employee satisfaction. The interactive dashboard enables HR teams to track key HR metrics efficiently.
